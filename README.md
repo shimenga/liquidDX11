@@ -9,6 +9,8 @@ draws spring-animated glass UI on top with custom HLSL shaders.
 
 ## Preview
 
+![Intro](media/liquiddx11_intro.gif)
+
 ![Material tuning](media/liquiddx11_material.gif)
 
 ![Demo surfaces](media/liquiddx11_surfaces.gif)
