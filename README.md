@@ -90,6 +90,14 @@ bash scripts/build.sh
 bash scripts/build.sh run
 ```
 
+Or with CMake:
+
+```bat
+cmake -S . -B build -A x64
+cmake --build build --config Release
+build\Release\liquidDX11.exe
+```
+
 ## Controls
 
 | Key | Action |
