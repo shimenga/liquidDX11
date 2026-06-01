@@ -73,12 +73,13 @@ The project is x64-only because the bundled FreeType import library is x64.
 
 ### Quick Start
 
+Open `liquidDX11.sln` in Visual Studio 2022, choose `Release|x64`, and build.
+
 From the repository root:
 
 ```bat
-cd examples\example_win32_directx11
-MSBuild example_win32_directx11.vcxproj /p:Configuration=Release /p:Platform=x64
-Release\example_win32_directx11.exe
+MSBuild liquidDX11.sln /p:Configuration=Release /p:Platform=x64
+examples\example_win32_directx11\Release\example_win32_directx11.exe
 ```
 
 Or from Git Bash:
