@@ -1,4 +1,4 @@
-# Glass Overlay
+# DX11 Liquid Glass ImGui Overlay
 
 A real-time **glassmorphic** desktop overlay for Windows. The entire window is a
 borderless, per-pixel-alpha sheet of frosted glass — it captures your live desktop

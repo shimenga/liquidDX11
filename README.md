@@ -1,6 +1,6 @@
-# Glass Overlay
+# DX11 Liquid Glass ImGui Overlay
 
-Glass Overlay is a Windows desktop UI demo built with C++17, Direct3D 11, and Dear ImGui 1.92.8. It renders a borderless per-pixel-alpha overlay, captures the live desktop with DXGI Desktop Duplication, blurs it with a dual-Kawase chain, and draws a glassmorphic Dear ImGui interface on top.
+DX11 Liquid Glass ImGui Overlay is a Windows desktop UI demo built with C++17, Direct3D 11, and Dear ImGui 1.92.8. It renders a borderless per-pixel-alpha overlay, captures the live desktop with DXGI Desktop Duplication, blurs it with a dual-Kawase chain, and draws a glassmorphic Dear ImGui interface on top.
 
 This repository keeps the upstream Dear ImGui source layout so the example can reference ImGui, the Win32/DX11 backends, FreeType, and local assets with simple relative paths. The main project lives here:
 
