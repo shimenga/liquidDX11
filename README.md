@@ -7,9 +7,15 @@ into a refractive, glossy glass overlay rendered in Direct3D 11. It captures the
 live desktop with DXGI Desktop Duplication, runs a Dual Kawase blur chain, and
 draws spring-animated glass UI on top with custom HLSL shaders.
 
-[![liquidDX11 preview](https://img.youtube.com/vi/rWdHt9bqKjY/hqdefault.jpg)](https://www.youtube.com/watch?v=rWdHt9bqKjY)
+## Preview
 
-[Watch the preview on YouTube](https://www.youtube.com/watch?v=rWdHt9bqKjY)
+![Material tuning](media/liquiddx11_material.gif)
+
+![Demo surfaces](media/liquiddx11_surfaces.gif)
+
+![Command palette](media/liquiddx11_command.gif)
+
+[Watch the full preview on YouTube](https://www.youtube.com/watch?v=rWdHt9bqKjY)
 
 ## Note
 
